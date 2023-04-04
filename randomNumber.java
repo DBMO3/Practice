@@ -7,7 +7,7 @@ public class Main {
 		int randomNumber = random.nextInt(11);
 		int n;
 		
-		System.out.println("Put a number");
+		System.out.println("Type a number");
 		n = in.nextInt();
 		
 		for(int attemp = 10; attemp > 0; attemp--){
